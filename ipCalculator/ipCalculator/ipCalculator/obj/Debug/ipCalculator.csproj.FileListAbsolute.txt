@@ -1,0 +1,17 @@
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\obj\Debug\ipCalculator.Form1.resources
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\obj\Debug\ipCalculator.Properties.Resources.resources
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\obj\Debug\ipCalculator.csproj.GenerateResource.Cache
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\bin\Debug\ipCalculator.exe.config
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\bin\Debug\ipCalculator.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\bin\Debug\ipCalculator.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\obj\Debug\ipCalculator.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\obj\Debug\ipCalculator.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2015\Projects\ipCalculator\ipCalculator\obj\Debug\ipCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\bin\Debug\ipCalculator.exe.config
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\bin\Debug\ipCalculator.exe
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\bin\Debug\ipCalculator.pdb
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\obj\Debug\ipCalculator.Form1.resources
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\obj\Debug\ipCalculator.Properties.Resources.resources
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\obj\Debug\ipCalculator.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\obj\Debug\ipCalculator.exe
+C:\Users\Ali\Desktop\ipCalculator\ipCalculator\ipCalculator\obj\Debug\ipCalculator.pdb
